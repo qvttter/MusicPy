@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_bbcabc5a38c639ce5501fbf8b608d5972ab48954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.android\build-cache\5a55efcd28f51fc2b17aa99051d7a6acd49ba364\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\classes_91a5cf3d172167e98810de0db7d537b5dada2113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android_studio_sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_490c56f54fdad96dd1a0fa825e23d7436b335b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.android\build-cache\f40efc7d772353c4aa7fdbf6b7263c3d521ed345\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\classes_2801126d78bd2aee08ba3aa00f3e0e908900e425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.android\build-cache\47e1e5c2b9a1a3eb0b895cae838bd96add4dab98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\classes_3e5b7205e22ec113acb425b03bd5baf14f86ffe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android_studio_sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_a5e410d604b9453bdf918e2015afe1afcea8e0b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.android\build-cache\3c686867720182fa412d692eb2d8d32ebcfa0f01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\classes_43c604f62aaa83d4d53344477723d587ba00b165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.android\build-cache\8c8c110d1f6d1b068121dc7e873bbae2e5528e85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\classes_6d08cd114e9eef5cd61fbd57da693d8ff8f30bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.android\build-cache\63b9e4d8f655a894d832a3b2acaafc8351c3774c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\classes_6dcea5c9f3be8dad3c1d43a99c4b4f3d885aceea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.android\build-cache\cd49df016af37739b7e283669e0ea3efa7042c68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\classes_ff2f0fc6958cf6712c2447746003881e888518b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.android\build-cache\a7014e96c222a6ddb2945da8ce079b9aeb585145\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\classes_de9907192c1ad61109b56cc93a8a0a7702284bc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.android\build-cache\8b0ba4ca75ea6488693d2c759bb3c8aaa7573296\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\classes_2fe3d0096d43a825de05c94e2a76ce5415957341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.android\build-cache\a35201fceabdb5477852678498b99a68cc4a709e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\classes_dd5ee32987251f83901712172641a485450c6959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lili\.android\build-cache\54423f60b34200e301c5c33aad7088b52bd9f7fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Android_WorkSpace\MusicPy\app\build\intermediates\pre-dexed\debug\classes_da4c83f4126784877d9291e1e658ccd6abc026e8.jar" />
+    </item>
+
+</items>
